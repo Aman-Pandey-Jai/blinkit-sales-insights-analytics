@@ -1,4 +1,3 @@
-
 Blinkit Sales Insights & Analytics
 This repository contains the Power BI dashboard and underlying data for an in-depth analysis of Blinkit's sales performance. The dashboard provides comprehensive insights into sales trends, outlet performance, product categories, and more, enabling data-driven decision-making.
 
